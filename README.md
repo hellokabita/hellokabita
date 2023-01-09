@@ -1,7 +1,5 @@
-♩<h1 align="center">Hi 👋, I'm kabitabk</h1>
+♩<h1 align="center">Hi 👋, I'm KABITA BK</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
-
-<img align=”right” alt=”coding” width=”400” src=”https://pin.it/4NhkkIR”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellokabita&label=Profile%20views&color=0e75b6&style=flat" alt="hellokabita" /> </p>
 
